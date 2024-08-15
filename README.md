@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-**Medicure** is a super specialty hospital based in New York, USA, providing world-class treatment and surgery, including Heart, Liver, Kidney transplants, and the first robotic surgery center. The chain is owned and managed by Global Health Limited.
+**Medicure** is a super specialty hospital based in New York, USA, providing world-class treatment and surgery, including Heart, Liver, Kidney transplants, and the first robotic surgery center. The chain is owned and managed by Global Health Limited..
 
 Medicure aims to centrally manage all doctors' and patients' data across its hospitals in various cities. They have developed a microservice to offer these services. To reduce unnecessary maintenance costs and manual labor, they aim to automate their application build and deployment process using DevOps. They are open to using any one of the (AWS, Azure, GCP) cloud platforms as their primary cloud service provider.
 
