@@ -1,15 +1,15 @@
-- hosts: test-server
+- hosts: prod-server
   become: true
   tasks:
   - name: update cache
     apt:
       update_cache: yes
-  
+
   - name: install docker
     apt:
       pkg: docker.io
       state: present
-  
+
   - name: start docker service
     service:
       name: docker
